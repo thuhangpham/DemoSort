@@ -1,0 +1,54 @@
+E:\Data\Huong doi tuong cho C#\Mini_Project_DemoSort\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Data\Huong doi tuong cho C#\Mini_Project_DemoSort\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Data\Huong doi tuong cho C#\Mini_Project_DemoSort\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Data\Huong doi tuong cho C#\Mini_Project_DemoSort\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Data\Huong doi tuong cho C#\Mini_Project_DemoSort\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Data\Huong doi tuong cho C#\Mini_Project_DemoSort\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Data\Huong doi tuong cho C#\Mini_Project_DemoSort\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Data\Huong doi tuong cho C#\Mini_Project_DemoSort\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Data\Huong doi tuong cho C#\Mini_Project_DemoSort\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\DATA_FORM_TN\Mini_Project_DemoSort\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\DATA_FORM_TN\Mini_Project_DemoSort\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\DATA_FORM_TN\Mini_Project_DemoSort\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\DATA_FORM_TN\Mini_Project_DemoSort\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\DATA_FORM_TN\Mini_Project_DemoSort\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\DATA_FORM_TN\Mini_Project_DemoSort\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\DATA_FORM_TN\Mini_Project_DemoSort\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\DATA_FORM_TN\Mini_Project_DemoSort\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\DATA_FORM_TN\Mini_Project_DemoSort\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\NgoThanhDong\Desktop\Mini_Project_DemoSort\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\NgoThanhDong\Desktop\Mini_Project_DemoSort\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\NgoThanhDong\Desktop\Mini_Project_DemoSort\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\NgoThanhDong\Desktop\Mini_Project_DemoSort\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\NgoThanhDong\Desktop\Mini_Project_DemoSort\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\NgoThanhDong\Desktop\Mini_Project_DemoSort\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\NgoThanhDong\Desktop\Mini_Project_DemoSort\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\NgoThanhDong\Desktop\Mini_Project_DemoSort\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\NgoThanhDong\Desktop\Mini_Project_DemoSort\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Data\Assignment of Data Structure & Algorithms\Mini_Project_DemoSort\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Data\Assignment of Data Structure & Algorithms\Mini_Project_DemoSort\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Data\Assignment of Data Structure & Algorithms\Mini_Project_DemoSort\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Data\Assignment of Data Structure & Algorithms\Mini_Project_DemoSort\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Data\Assignment of Data Structure & Algorithms\Mini_Project_DemoSort\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Data\Assignment of Data Structure & Algorithms\Mini_Project_DemoSort\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Data\Assignment of Data Structure & Algorithms\Mini_Project_DemoSort\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Data\Assignment of Data Structure & Algorithms\Mini_Project_DemoSort\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Data\Assignment of Data Structure & Algorithms\Mini_Project_DemoSort\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Data\HK1-2015\Assignment of Data Structure & Algorithms\14110039_14110051_14110210\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Data\HK1-2015\Assignment of Data Structure & Algorithms\14110039_14110051_14110210\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Data\HK1-2015\Assignment of Data Structure & Algorithms\14110039_14110051_14110210\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Data\HK1-2015\Assignment of Data Structure & Algorithms\14110039_14110051_14110210\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Data\HK1-2015\Assignment of Data Structure & Algorithms\14110039_14110051_14110210\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Data\HK1-2015\Assignment of Data Structure & Algorithms\14110039_14110051_14110210\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Data\HK1-2015\Assignment of Data Structure & Algorithms\14110039_14110051_14110210\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Data\HK1-2015\Assignment of Data Structure & Algorithms\14110039_14110051_14110210\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Data\HK1-2015\Assignment of Data Structure & Algorithms\14110039_14110051_14110210\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Data\Semesters\Second-year\HK1-2015\Assignment of Data Structure & Algorithms\14110039_14110051_14110210\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Data\Semesters\Second-year\HK1-2015\Assignment of Data Structure & Algorithms\14110039_14110051_14110210\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Data\Semesters\Second-year\HK1-2015\Assignment of Data Structure & Algorithms\14110039_14110051_14110210\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Data\Semesters\Second-year\HK1-2015\Assignment of Data Structure & Algorithms\14110039_14110051_14110210\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Data\Semesters\Second-year\HK1-2015\Assignment of Data Structure & Algorithms\14110039_14110051_14110210\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Data\Semesters\Second-year\HK1-2015\Assignment of Data Structure & Algorithms\14110039_14110051_14110210\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Data\Semesters\Second-year\HK1-2015\Assignment of Data Structure & Algorithms\14110039_14110051_14110210\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Data\Semesters\Second-year\HK1-2015\Assignment of Data Structure & Algorithms\14110039_14110051_14110210\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Data\Semesters\Second-year\HK1-2015\Assignment of Data Structure & Algorithms\14110039_14110051_14110210\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

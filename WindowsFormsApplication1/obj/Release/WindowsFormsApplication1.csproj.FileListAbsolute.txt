@@ -1,0 +1,8 @@
+E:\Data\Assignment of Data Structure & Algorithms\Mini_Project_DemoSort\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+E:\Data\Assignment of Data Structure & Algorithms\Mini_Project_DemoSort\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+E:\Data\Assignment of Data Structure & Algorithms\Mini_Project_DemoSort\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+E:\Data\Assignment of Data Structure & Algorithms\Mini_Project_DemoSort\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+E:\Data\Assignment of Data Structure & Algorithms\Mini_Project_DemoSort\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+E:\Data\Assignment of Data Structure & Algorithms\Mini_Project_DemoSort\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Data\Assignment of Data Structure & Algorithms\Mini_Project_DemoSort\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+E:\Data\Assignment of Data Structure & Algorithms\Mini_Project_DemoSort\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
